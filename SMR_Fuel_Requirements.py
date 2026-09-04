@@ -1,3 +1,32 @@
+# =============================================================================
+# SMR Fuel Requirements
+# =============================================================================
+#
+# Reactor Neutronic and Computational Analysis Laboratory (LANCER)
+# Nuclear Engineering Program
+# COPPE - Federal University of Rio de Janeiro (UFRJ)
+#
+# Description:
+# Python implementation for estimating fuel-cycle metrics and natural uranium
+# requirements for Small Modular Reactor (SMR) deployment scenarios.
+#
+# The code evaluates the ACP100, BANDI, and RITM-200N reactor designs and
+# calculates reactor deployment requirements, initial heavy metal inventory,
+# specific natural uranium requirements, and annual fleet-level uranium demand.
+#
+# Associated manuscript:
+# "Small Modular Reactors for Data Centers: Deployment and Nuclear Fuel
+# Requirements"
+#
+# Authors:
+# Willian Vieira de Abreu et al.
+#
+# Repository:
+# https://github.com/wacoppe/SMR
+#
+# =============================================================================
+
+
 import math
 
 # =========================
