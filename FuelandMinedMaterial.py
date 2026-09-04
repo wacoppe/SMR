@@ -13,7 +13,7 @@ feed_assay = 0.711
 efficiency = 32
 conv_losses = 0.5
 
-# Custos unitários
+# Custos unitários. Funcao ainda em teste. Nao utilizada no artigo.
 unit_costs = {
     "swu": 145,     # $/SWU Fonte: não foi preciso, está tudo na minha cabeça. Brinks. Mean - Meta-Analysis of Advanced Nuclear Reactor Cost Estimations Idaho (2024, p.91)
     "feed": 65,    # $/lb U3O8
