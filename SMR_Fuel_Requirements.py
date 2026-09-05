@@ -146,8 +146,9 @@ for reactor_name, data in reactors.items():
 
     energy_mwh_e = energy_mwh_th * efficiency / 100
 
-    specific_natural_uranium_gU_per_MWh = (
-        natural_feed_kgU * 1000 / energy_mwh_e
+    specific_natural_uranium_gU_per_MWh = round(
+        natural_feed_kgU * 1000 / energy_mwh_e,
+        3
     )
 
     spent_fuel_gHM_per_MWh = (
