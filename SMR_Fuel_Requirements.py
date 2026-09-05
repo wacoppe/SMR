@@ -63,7 +63,7 @@ feed_assay = 0.711
 conv_losses = 0.5
 
 # Reference data-center demand
-demand_MWe = 2520
+demand_MWe = 2525
 
 
 # =========================
