@@ -29,7 +29,7 @@ No external Python packages are required.
 
 Run:
 
-python FuelandMinedMaterial.py
+python SMR_Fuel_Requirements.py
 
 The reactor input parameters can be modified directly in the script to
 evaluate alternative reactor designs or scenarios.
