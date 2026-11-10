@@ -40,4 +40,6 @@ Willian Vieira de Abreu et al.
 
 ## Citation
 
-If you use this code, please cite the associated manuscript.
+If you use this code, please cite the associated manuscript:
+
+de Abreu WV, Martinez AS, Silva AS, Takashi LK, Ribeiro Lima ÁC, de Pontes JBB, Ramon LLS, Gonçalves AC, Silva AC, Silva FC and Lima MAC (2026) Small modular reactors for data centers: deployment and nuclear fuel requirements. Front. Nucl. Eng. 5:1971830. doi: 10.3389/fnuen.2026.1971830
